@@ -87,13 +87,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:050505,100:8b0000&height=90&section=header&text=ABOUT&fontColor=ff1f3d&fontSize=32&animation=fadeIn&fontAlignY=65" />
 </div>
 
-I work at the intersection of **security research** and **software engineering** —
-building tools, taking systems apart to understand them, and applying OSINT methods
-to research problems that need patience as much as technical skill. Most of my time
-goes into backend systems, automation, and applied research on Linux.
+I operate where truth meets intelligence.
 
-I'm drawn to the gap between how a system is *supposed* to behave and how it actually
-does — and to building software that closes that gap rather than exploits it.
+A collaborative hacker.
+An intelligence researcher.
+A builder driven by purpose.
+
+I stand with what is right — and nothing else.
 
 <br/>
 
