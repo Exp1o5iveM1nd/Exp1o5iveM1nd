@@ -1,20 +1,3 @@
-<!--
-  ══════════════════════════════════════════════════════════════════════
-  IMAGE CONFIGURATION — replace every value below wherever it appears
-  ══════════════════════════════════════════════════════════════════════
-  YOUR_BANNER_URL                 → optional high-res background layer behind the hero
-  YOUR_AVATAR_URL                  → primary identity portrait
-  YOUR_BCIA_LOGO_URL                → BCIA Agency mark
-  YOUR_CYB3RDRAG0NZ_LOGO_URL         → Cyb3rDrag0nz mark
-  YOUR_BYTEBLITZX_LOGO_URL            → ByteBlitzX Teams mark
-  YOUR_PROFILE_GIF_URL                 → optional footer motion asset
-  ══════════════════════════════════════════════════════════════════════
-  All section dividers below are generated on the fly by capsule-render
-  (capsule-render.vercel.app) — a public SVG banner service — so the
-  black/crimson gradient, glow and fade-in animation are real rendered
-  effects, not decorative text. Nothing here is a static template label.
--->
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:8b0000,100:ff1f3d&height=220&section=header&animation=fadeIn&fontColor=e5e5e5" />
@@ -49,7 +32,7 @@
 <br/>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:050505,100:8b0000&height=90&section=header&text=DOSSIER&fontColor=ff1f3d&fontSize=32&animation=fadeIn&fontAlignY=65" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:050505,100:8b0000&height=90&section=header&text=ME&fontColor=ff1f3d&fontSize=32&animation=fadeIn&fontAlignY=65" />
 </div>
 
 <table width="100%">
