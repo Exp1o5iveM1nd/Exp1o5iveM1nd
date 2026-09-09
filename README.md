@@ -33,9 +33,7 @@
 <table width="100%">
 <tr>
 <td width="150" align="center"><img src="YOUR_AVATAR_URL" width="130" /></td>
-<td>
-
-</td>
+<td>&nbsp;</td>
 </tr>
 </table>
 
@@ -103,49 +101,38 @@ I stand with what is right — and nothing else.
 
 <div align="center">
 
-PROJECT
-
-PURPOSE
-
-STACK
-
-STATUS
-
-LINK
-
-YOUR_PROJECT_NAME
-
-YOUR_PROJECT_DESCRIPTION
-
-—
-
-BUILDING
-
-repo
-
-YOUR_PROJECT_NAME
-
-YOUR_PROJECT_DESCRIPTION
-
-—
-
-ACTIVE
-
-repo
-
-YOUR_PROJECT_NAME
-
-YOUR_PROJECT_DESCRIPTION
-
-—
-
-ARCHIVED
-
-repo
+<table width="100%" style="border-collapse: collapse; text-align: center;">
+<tr>
+<td style="padding: 8px; border-bottom: 1px solid #8b0000;"><b>PROJECT</b></td>
+<td style="padding: 8px; border-bottom: 1px solid #8b0000;"><b>PURPOSE</b></td>
+<td style="padding: 8px; border-bottom: 1px solid #8b0000;"><b>STACK</b></td>
+<td style="padding: 8px; border-bottom: 1px solid #8b0000;"><b>STATUS</b></td>
+<td style="padding: 8px; border-bottom: 1px solid #8b0000;"><b>LINK</b></td>
+</tr>
+<tr>
+<td style="padding: 8px;">YOUR_PROJECT_NAME</td>
+<td style="padding: 8px;">YOUR_PROJECT_DESCRIPTION</td>
+<td style="padding: 8px;">—</td>
+<td style="padding: 8px;">BUILDING</td>
+<td style="padding: 8px;"><a href="#">repo</a></td>
+</tr>
+<tr>
+<td style="padding: 8px;">YOUR_PROJECT_NAME</td>
+<td style="padding: 8px;">YOUR_PROJECT_DESCRIPTION</td>
+<td style="padding: 8px;">—</td>
+<td style="padding: 8px;">ACTIVE</td>
+<td style="padding: 8px;"><a href="#">repo</a></td>
+</tr>
+<tr>
+<td style="padding: 8px;">YOUR_PROJECT_NAME</td>
+<td style="padding: 8px;">YOUR_PROJECT_DESCRIPTION</td>
+<td style="padding: 8px;">—</td>
+<td style="padding: 8px;">ARCHIVED</td>
+<td style="padding: 8px;"><a href="#">repo</a></td>
+</tr>
+</table>
 
 </div>
-
-<sub style="color:#777777">Replace each row with a real project — see the customization guide below.</sub>
 
 <br/>
 
@@ -177,7 +164,7 @@ repo
 </div>
 
 <div align="center">
-
+&nbsp;
 </div>
 
 <br/>
