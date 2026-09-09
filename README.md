@@ -133,20 +133,6 @@ I stand with what is right — and nothing else.
 <br/>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:050505,100:8b0000&height=90&section=header&text=BLACK INTEL&fontColor=ff1f3d&fontSize=28&animation=fadeIn&fontAlignY=65" />
-</div>
-
-> **Ethics statement** — Security research is performed only on systems I own or where
-> I have explicit, documented authorization. Nothing on this profile references
-> third-party systems, disclosed vulnerabilities, or unauthorized engagements.
-
-<br/>
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:050505,100:8b0000&height=90&section=header&text=PROJECT+MATRIX&fontColor=ff1f3d&fontSize=28&animation=fadeIn&fontAlignY=65" />
-</div>
-
-<div align="center">
 
 | PROJECT | PURPOSE | STACK | STATUS | LINK |
 |---|---|---|---|---|
