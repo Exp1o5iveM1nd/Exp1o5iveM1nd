@@ -1,312 +1,250 @@
+<!--
+  ══════════════════════════════════════════════════════════════════════
+  IMAGE CONFIGURATION — replace these values wherever they appear below
+  ══════════════════════════════════════════════════════════════════════
+  YOUR_BANNER_URL              → top hero banner image
+  YOUR_AVATAR_URL               → identity/avatar visual
+  YOUR_CYB3RDRAG0NZ_LOGO_URL     → Cyb3rDrag0nz team logo
+  YOUR_BCIA_LOGO_URL             → BCIA Agency logo
+  YOUR_PROFILE_GIF_URL           → optional animated footer/hero asset
+  ══════════════════════════════════════════════════════════════════════
+-->
+
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="YOUR_BANNER_URL" width="100%" alt="EXP1O5IVEM1ND banner" />
 
-<!--                       HERO BANNER                              -->
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=32&duration=2800&pause=1200&color=FF1F3D&center=true&vCenter=true&width=680&lines=EXP1O5IVEM1ND;SECURITY+%2F%2F+SOFTWARE+%2F%2F+RESEARCH;SYSTEM+STATUS%3A+ONLINE" alt="typing banner" />
 
-<a href="YOUR_BANNER_URL">
-  <img src="YOUR_BANNER_URL" width="100%" alt="Exp1o5iveM1nd Banner">
-</a>
+<br/>
 
-<br>
+`REDLINE // DIGITAL RESEARCH SYSTEM`
 
-<img src="YOUR_AVATAR_URL" width="130" alt="Exp1o5iveM1nd Avatar">
+<br/>
 
-# `EXP1O5IVEM1ND`
+![Static Badge](https://img.shields.io/badge/STATUS-ONLINE-ff1f3d?style=for-the-badge&labelColor=050505)
+![Static Badge](https://img.shields.io/badge/FOCUS-SECURITY_%7C_SOFTWARE-8b0000?style=for-the-badge&labelColor=050505)
+![Static Badge](https://img.shields.io/badge/ENV-LINUX-e5e5e5?style=for-the-badge&labelColor=050505)
 
-### `CYBERSECURITY • SOFTWARE ENGINEERING • DIGITAL RESEARCH`
+<br/>
 
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Exp1o5iveM1nd-0d0d0d?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Exp1o5iveM1nd)
-[![Profile Views](https://komarev.com/ghpvc/?username=Exp1o5iveM1nd\&style=for-the-badge\&color=8b0000\&label=PROFILE+VIEWS)](https://github.com/Exp1o5iveM1nd)
-[![Status](https://img.shields.io/badge/STATUS-ACTIVE-8b0000?style=for-the-badge)](#)
+<a href="YOUR_GITHUB_URL"><img src="https://img.shields.io/badge/GITHUB-e5e5e5?style=flat-square&logo=github&logoColor=050505" /></a>
+<a href="YOUR_X_URL"><img src="https://img.shields.io/badge/X-e5e5e5?style=flat-square&logo=x&logoColor=050505" /></a>
+<a href="YOUR_TELEGRAM_URL"><img src="https://img.shields.io/badge/TELEGRAM-e5e5e5?style=flat-square&logo=telegram&logoColor=050505" /></a>
+<a href="YOUR_INSTAGRAM_URL"><img src="https://img.shields.io/badge/INSTAGRAM-e5e5e5?style=flat-square&logo=instagram&logoColor=050505" /></a>
+<a href="YOUR_WEBSITE_URL"><img src="https://img.shields.io/badge/WEBSITE-e5e5e5?style=flat-square&logo=firefox&logoColor=050505" /></a>
 
 </div>
 
----
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/red.png" width="100%" />
+
+<br/>
+
+## `// 01` IDENTITY
 
 <div align="center">
+<img src="YOUR_AVATAR_URL" width="140" style="border-radius:6px" alt="avatar" />
+</div>
 
 ```text
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   ███████╗██╗  ██╗██████╗ ██╗      ██████╗ ███████╗██╗██╗   ██╗    ║
-║   ██╔════╝╚██╗██╔╝██╔══██╗██║     ██╔═══██╗██╔════╝██║██║   ██║    ║
-║   █████╗   ╚███╔╝ ██████╔╝██║     ██║   ██║███████╗██║██║   ██║    ║
-║   ██╔══╝   ██╔██╗ ██╔═══╝ ██║     ██║   ██║╚════██║██║╚██╗ ██╔╝    ║
-║   ███████╗██╔╝ ██╗██║     ███████╗╚██████╔╝███████║██║ ╚████╔╝     ║
-║   ╚══════╝╚═╝  ╚═╝╚═╝     ╚══════╝ ╚═════╝ ╚══════╝╚═╝  ╚═══╝      ║
-║                                                                      ║
-║                    INITIALIZING PROFILE...                          ║
-║                    ACCESS: GRANTED                                   ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-## `> whoami`
-
-```bash
-┌──[EXP1O5IVEM1ND@github]─[~/profile]
-└─$ cat identity.conf
-
-IDENTITY      :: Exp1o5iveM1nd
-ROLE          :: Software Engineer / Security Researcher
-ENVIRONMENT   :: Linux
-PRIMARY_FOCUS :: Security • Web • Systems • Automation
-MINDSET       :: Build • Break • Learn • Repeat
-CURRENT_MODE  :: ████████████████████ 100%
-
-┌─[CORE]
+┌─[ exp1o5ivemind@redline ]─[ ~/identity ]
 │
-├── Offensive Security Research
-├── Web Application Security
-├── OSINT & Digital Research
-├── Full-Stack Engineering
-├── Automation & Tooling
-└── Linux / Systems Engineering
-```
-
----
-
-## `> affiliations`
-
-<div align="center">
-
-<a href="YOUR_CYB3RDRAG0NZ_URL">
-<img src="YOUR_CYB3RDRAG0NZ_LOGO_URL" width="220" alt="Cyb3rDrag0nz">
-</a>
-
-     
-
-<a href="YOUR_BCIA_URL">
-<img src="YOUR_BCIA_LOGO_URL" width="220" alt="BCIA Agency">
-</a>
-
-<br><br>
-
-```text
-Cyb3rDrag0nz
-        ×
-BCIA Agency
-```
-
-</div>
-
----
-
-# `01 // ARSENAL`
-
-<div align="center">
-
-### `LANGUAGES`
-
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge\&logo=python\&logoColor=ff3b3b)
-![C++](https://img.shields.io/badge/C%2B%2B-0d0d0d?style=for-the-badge\&logo=cplusplus\&logoColor=ff3b3b)
-![Go](https://img.shields.io/badge/Go-0d0d0d?style=for-the-badge\&logo=go\&logoColor=ff3b3b)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge\&logo=javascript\&logoColor=ff3b3b)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge\&logo=typescript\&logoColor=ff3b3b)
-![PHP](https://img.shields.io/badge/PHP-0d0d0d?style=for-the-badge\&logo=php\&logoColor=ff3b3b)
-![Kotlin](https://img.shields.io/badge/Kotlin-0d0d0d?style=for-the-badge\&logo=kotlin\&logoColor=ff3b3b)
-![Dart](https://img.shields.io/badge/Dart-0d0d0d?style=for-the-badge\&logo=dart\&logoColor=ff3b3b)
-
-### `FRAMEWORKS / RUNTIME`
-
-![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge\&logo=react\&logoColor=ff3b3b)
-![Next.js](https://img.shields.io/badge/Next.js-0d0d0d?style=for-the-badge\&logo=nextdotjs\&logoColor=ff3b3b)
-![Vite](https://img.shields.io/badge/Vite-0d0d0d?style=for-the-badge\&logo=vite\&logoColor=ff3b3b)
-![Three.js](https://img.shields.io/badge/Three.js-0d0d0d?style=for-the-badge\&logo=threedotjs\&logoColor=ff3b3b)
-![Flutter](https://img.shields.io/badge/Flutter-0d0d0d?style=for-the-badge\&logo=flutter\&logoColor=ff3b3b)
-
-### `INFRASTRUCTURE`
-
-![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge\&logo=linux\&logoColor=ff3b3b)
-![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge\&logo=git\&logoColor=ff3b3b)
-![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge\&logo=docker\&logoColor=ff3b3b)
-![MySQL](https://img.shields.io/badge/MySQL-0d0d0d?style=for-the-badge\&logo=mysql\&logoColor=ff3b3b)
-![Redis](https://img.shields.io/badge/Redis-0d0d0d?style=for-the-badge\&logo=redis\&logoColor=ff3b3b)
-
-</div>
-
----
-
-# `02 // SECURITY`
-
-```text
-╭──────────────────────────────────────────────────────────────╮
-│                     SECURITY STACK                           │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  [01] WEB SECURITY                                           │
-│       ├── Application Security                               │
-│       ├── Authentication / Authorization                     │
-│       ├── API Security                                       │
-│       └── Security Testing                                   │
-│                                                              │
-│  [02] RESEARCH                                                │
-│       ├── OSINT                                               │
-│       ├── Digital Recon                                       │
-│       ├── Threat Research                                    │
-│       └── Security Automation                                │
-│                                                              │
-│  [03] SYSTEMS                                                 │
-│       ├── Linux                                               │
-│       ├── Networking                                          │
-│       ├── Shell Automation                                   │
-│       └── Infrastructure                                     │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-```
-
-> **Ethics:** Security knowledge is used for authorized research, defensive engineering, education, and improving system security.
-
----
-
-# `03 // PROJECTS`
-
-<div align="center">
-
-<a href="YOUR_PROJECT_1_URL">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Exp1o5iveM1nd&repo=Effex&theme=dark&bg_color=0d0d0d&title_color=ff3b3b&text_color=c9c9c9&icon_color=ff3b3b&border_color=8b0000" />
-</a>
-
-</div>
-
-### `PROJECT MATRIX`
-
-```text
-┌────────────────────┬────────────────────────────────────────────┐
-│ PROJECT             │ DESCRIPTION                                │
-├────────────────────┼────────────────────────────────────────────┤
-│ Effex               │ Experimental software / research project  │
-│ OSINT ENGINE        │ Large-scale information research tooling  │
-│ SECURITY TOOLING    │ Automation and security utilities         │
-│ WEB SYSTEMS         │ Modern full-stack applications             │
-└────────────────────┴────────────────────────────────────────────┘
-```
-
-> Replace the project names and links above with your actual public projects.
-
----
-
-# `04 // GITHUB TELEMETRY`
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Exp1o5iveM1nd&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ff3b3b&text_color=c9c9c9&icon_color=ff3b3b&include_all_commits=true&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exp1o5iveM1nd&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ff3b3b&text_color=c9c9c9" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Exp1o5iveM1nd&theme=dark&hide_border=true&background=0D0D0D&ring=8B0000&fire=FF3B3B&currStreakLabel=FF3B3B&sideLabels=C9C9C9&dates=777777" width="80%">
-
-</div>
-
----
-
-# `05 // CONTRIBUTIONS`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Exp1o5iveM1nd&bg_color=0d0d0d&color=ff3b3b&line=8b0000&point=ff3b3b&area=true&hide_border=true" width="100%">
-
-</div>
-
----
-
-# `06 // CURRENT OPERATIONS`
-
-```text
-┌──[EXP1O5IVEM1ND@github]─[~/operations]
+│  handle       : Exp1o5iveM1nd
+│  designation  : REDLINE // Digital Research System
+│  discipline   : Software Engineering · Security Research
+│  base_env     : Linux · Bash/Zsh · Git
+│  current_mode : BUILDING
+│  uptime       : [see contribution graph below]
 │
-├── [ACTIVE]   Security Research
-├── [ACTIVE]   Full-Stack Development
-├── [ACTIVE]   Linux Engineering
-├── [ACTIVE]   OSINT Tooling
-├── [ACTIVE]   Automation
-│
-├── [BUILD]    New Security Projects
-├── [BUILD]    Open Source Experiments
-└── [BUILD]    Next Generation Tooling
-│
-└─$ ./continue.sh
+└─▶ status: RESEARCH_ACTIVE
 ```
 
----
+<br/>
 
-# `07 // PHILOSOPHY`
+## `// 02` AFFILIATIONS
 
 <div align="center">
 
-```text
-"KNOWLEDGE IS NOT POWER
-
- KNOWLEDGE + DISCIPLINE + EXECUTION
-
- IS POWER."
-```
-
-<br>
-
-```text
-BUILD WHAT YOU CAN'T FIND.
-UNDERSTAND WHAT YOU USE.
-BREAK ONLY WHAT YOU OWN OR ARE AUTHORIZED TO TEST.
-```
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="YOUR_CYB3RDRAG0NZ_LOGO_URL" width="90" /><br/>
+<sub><b>CYB3RDRAG0NZ</b></sub><br/>
+<sub style="color:#777777">collective / crew</sub>
+</td>
+<td align="center" width="50%">
+<img src="YOUR_BCIA_LOGO_URL" width="90" /><br/>
+<sub><b>BCIA AGENCY</b></sub><br/>
+<sub style="color:#777777">affiliated organization</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<br/>
 
-# `08 // CONNECT`
+## `// 03` ABOUT
+
+<table width="100%">
+<tr><td>
+
+I work at the intersection of **software engineering** and **security research** —
+building tools, breaking down systems to understand them, and documenting what I learn
+along the way. Most of my time goes into backend systems, automation, and applied
+web/network research on Linux.
+
+I'm drawn to problems that need both an engineer's precision and an attacker's
+curiosity: how systems fail, how they're built to not fail, and the gap in between.
+
+</td></tr>
+</table>
+
+<br/>
+
+## `// 04` TECHNOLOGY STACK
 
 <div align="center">
 
-<a href="YOUR_X_URL">
-<img src="https://img.shields.io/badge/X-0d0d0d?style=for-the-badge&logo=x&logoColor=ffffff">
-</a>
+**LANGUAGES**
 
-<a href="YOUR_INSTAGRAM_URL">
-<img src="https://img.shields.io/badge/Instagram-0d0d0d?style=for-the-badge&logo=instagram&logoColor=ff3b3b">
-</a>
+![Python](https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=FF1F3D)
+![C++](https://img.shields.io/badge/C++-050505?style=for-the-badge&logo=cplusplus&logoColor=FF1F3D)
+![Go](https://img.shields.io/badge/Go-050505?style=for-the-badge&logo=go&logoColor=FF1F3D)
+![JavaScript](https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&logo=javascript&logoColor=FF1F3D)
+![TypeScript](https://img.shields.io/badge/TypeScript-050505?style=for-the-badge&logo=typescript&logoColor=FF1F3D)
+![PHP](https://img.shields.io/badge/PHP-050505?style=for-the-badge&logo=php&logoColor=FF1F3D)
+![Kotlin](https://img.shields.io/badge/Kotlin-050505?style=for-the-badge&logo=kotlin&logoColor=FF1F3D)
+![Dart](https://img.shields.io/badge/Dart-050505?style=for-the-badge&logo=dart&logoColor=FF1F3D)
 
-<a href="YOUR_TELEGRAM_URL">
-<img src="https://img.shields.io/badge/Telegram-0d0d0d?style=for-the-badge&logo=telegram&logoColor=ff3b3b">
-</a>
+**FRONTEND**
 
-<a href="https://github.com/Exp1o5iveM1nd">
-<img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ffffff">
-</a>
+![React](https://img.shields.io/badge/React-050505?style=for-the-badge&logo=react&logoColor=FF1F3D)
+![Next.js](https://img.shields.io/badge/Next.js-050505?style=for-the-badge&logo=nextdotjs&logoColor=FF1F3D)
+![Vite](https://img.shields.io/badge/Vite-050505?style=for-the-badge&logo=vite&logoColor=FF1F3D)
+![Three.js](https://img.shields.io/badge/Three.js-050505?style=for-the-badge&logo=threedotjs&logoColor=FF1F3D)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-050505?style=for-the-badge&logo=tailwindcss&logoColor=FF1F3D)
+
+**BACKEND / SYSTEMS**
+
+![Node.js](https://img.shields.io/badge/Node.js-050505?style=for-the-badge&logo=nodedotjs&logoColor=FF1F3D)
+![MySQL](https://img.shields.io/badge/MySQL-050505?style=for-the-badge&logo=mysql&logoColor=FF1F3D)
+![SQLite](https://img.shields.io/badge/SQLite-050505?style=for-the-badge&logo=sqlite&logoColor=FF1F3D)
+![Redis](https://img.shields.io/badge/Redis-050505?style=for-the-badge&logo=redis&logoColor=FF1F3D)
+![Linux](https://img.shields.io/badge/Linux-050505?style=for-the-badge&logo=linux&logoColor=FF1F3D)
+![Docker](https://img.shields.io/badge/Docker-050505?style=for-the-badge&logo=docker&logoColor=FF1F3D)
+![Git](https://img.shields.io/badge/Git-050505?style=for-the-badge&logo=git&logoColor=FF1F3D)
+![Bash](https://img.shields.io/badge/Bash-050505?style=for-the-badge&logo=gnubash&logoColor=FF1F3D)
 
 </div>
 
----
+<br/>
+
+## `// 05` SECURITY & RESEARCH
+
+```text
+┌────────────────┬──────────────────────────────────────────┐
+│  WEB SECURITY   │  application-layer research, auth flows,  │
+│                 │  common vulnerability classes             │
+├────────────────┼──────────────────────────────────────────┤
+│  SYSTEMS        │  Linux internals, hardening, network      │
+│                 │  fundamentals                              │
+├────────────────┼──────────────────────────────────────────┤
+│  OSINT          │  open-source / digital research methods   │
+├────────────────┼──────────────────────────────────────────┤
+│  AUTOMATION     │  tooling to reduce manual research work    │
+└────────────────┴──────────────────────────────────────────┘
+```
+
+> **Ethics statement**
+> Security research is performed only on systems I own or where I have explicit,
+> documented authorization. No claims here reference third-party systems, disclosed
+> vulnerabilities, or engagements without permission.
+
+<br/>
+
+## `// 06` PROJECT MATRIX
 
 <div align="center">
 
-### `Cyb3rDrag0nz × BCIA`
+| PROJECT | PURPOSE | STACK | STATUS | LINK |
+|---|---|---|---|---|
+| `YOUR_PROJECT_NAME` | `YOUR_PROJECT_DESCRIPTION` | — | `BUILDING` | [repo](YOUR_PROJECT_URL) |
+| `YOUR_PROJECT_NAME` | `YOUR_PROJECT_DESCRIPTION` | — | `ACTIVE` | [repo](YOUR_PROJECT_URL) |
+| `YOUR_PROJECT_NAME` | `YOUR_PROJECT_DESCRIPTION` | — | `ARCHIVED` | [repo](YOUR_PROJECT_URL) |
+
+</div>
+
+<sub style="color:#777777">Replace each row with a real project. Remove rows you don't need — see the customization guide below.</sub>
+
+<br/>
+
+## `// 07` GITHUB TELEMETRY
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Exp1o5iveM1nd&show_icons=true&hide_border=true&bg_color=050505&title_color=FF1F3D&icon_color=FF1F3D&text_color=E5E5E5&ring_color=8B0000" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exp1o5iveM1nd&layout=compact&hide_border=true&bg_color=050505&title_color=FF1F3D&text_color=E5E5E5" width="42%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Exp1o5iveM1nd&hide_border=true&background=050505&ring=FF1F3D&fire=FF1F3D&currStreakLabel=E5E5E5&sideLabels=777777&dates=777777" width="60%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Exp1o5iveM1nd&bg_color=050505&color=E5E5E5&line=FF1F3D&point=FF1F3D&area=true&hide_border=true" width="90%" />
+
+</div>
+
+<sub style="color:#777777">These are optional third-party widgets. If any becomes unavailable, delete its line — the rest of the layout is unaffected.</sub>
+
+<br/>
+
+## `// 08` CURRENT OPERATIONS
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│     [ SYSTEM ONLINE ]       [ RESEARCH ACTIVE ]            │
-│                                                             │
-│              EXP1O5IVEM1ND // 2026                         │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+> building     : YOUR_PROJECT_NAME
+> researching  : web security fundamentals
+> learning     : (fill in)
+> availability : OPEN_TO_COLLAB
 ```
 
-<br>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:8b0000,100:ff3b3b&height=100&section=footer">
+## `// 09` PHILOSOPHY
+
+<div align="center">
+
+<sub>「 understand the system before you trust it 」</sub>
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/red.png" width="100%" />
+
+## `// 10` CONNECT
+
+<div align="center">
+
+<a href="YOUR_GITHUB_URL"><img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=FF1F3D" /></a>
+<a href="YOUR_X_URL"><img src="https://img.shields.io/badge/X-050505?style=for-the-badge&logo=x&logoColor=FF1F3D" /></a>
+<a href="YOUR_TELEGRAM_URL"><img src="https://img.shields.io/badge/TELEGRAM-050505?style=for-the-badge&logo=telegram&logoColor=FF1F3D" /></a>
+<a href="YOUR_INSTAGRAM_URL"><img src="https://img.shields.io/badge/INSTAGRAM-050505?style=for-the-badge&logo=instagram&logoColor=FF1F3D" /></a>
+<a href="YOUR_WEBSITE_URL"><img src="https://img.shields.io/badge/WEBSITE-050505?style=for-the-badge&logo=firefox&logoColor=FF1F3D" /></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="YOUR_PROFILE_GIF_URL" width="100%" alt="footer animation" />
+
+<sub style="color:#777777">EXP1O5IVEM1ND // REDLINE — SYSTEM STATUS: ONLINE</sub>
 
 </div>
