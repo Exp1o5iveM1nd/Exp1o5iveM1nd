@@ -1,33 +1,40 @@
 <div align="center">
 
-<!-- HEADER ANIMATIONS -->
+<!-- HEADER: NAME TYPING ANIMATION -->
 <a href="https://github.com/Exp1o5iveM1nd">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Binera+Bold&weight=800&size=55&duration=3000&pause=1000&color=E60000&center=true&vCenter=true&width=800&height=90&lines=Exp1o5iveM1nd" alt="Exp1o5iveM1nd" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=55&duration=3000&pause=1000&color=E60000&center=true&vCenter=true&width=800&height=90&lines=Exp1o5iveM1nd" alt="Exp1o5iveM1nd" />
 </a>
 <br/>
 <a href="https://github.com/Exp1o5iveM1nd">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Binera+Bold&weight=600&size=28&duration=4000&pause=1000&color=8B0000&center=true&vCenter=true&width=800&height=60&lines=CO-FOUNDER+OF+BCIA+AGENCY;OSINT+-+Hacker;MasterBoy" alt="Roles" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=4000&pause=1000&color=8B0000&center=true&vCenter=true&width=800&height=60&lines=CO-FOUNDER+OF+BCIA+AGENCY;OSINT+-+Hacker;MasterBoy" alt="Roles" />
 </a>
 
 <br><br>
 
-<!-- SHOWCASE IMAGES -->
-<!-- Main Image: BCIA AGENCY -->
-<p align="center">
-  <img src="https://via.placeholder.com/850x350/0a0000/ff0000?text=BCIA+AGENCY+[REPLACE+IMAGE+LINK+HERE]" width="850" alt="BCIA Agency" style="border-radius: 15px; border: 2px solid #E60000; box-shadow: 0px 0px 15px rgba(230, 0, 0, 0.5);" />
-</p>
+<!-- MAIN AGENCY IMAGE -->
+<img src="https://via.placeholder.com/850x350/0a0000/ff0000?text=BCIA+AGENCY+[REPLACE+IMAGE+LINK+HERE]" width="850" alt="BCIA Agency" style="border-radius: 15px; border: 2px solid #E60000; box-shadow: 0px 0px 15px rgba(230, 0, 0, 0.5);" />
 
-<!-- Sub Images: Cyb3rDrag0nz & ByteBlitzX -->
-<p align="center">
-  <img src="https://via.placeholder.com/415x220/0a0000/cc0000?text=Team+Cyb3rDrag0nz+[REPLACE+LINK]" width="415" alt="Team Cyb3rDrag0nz" style="border-radius: 15px; border: 1px solid #8B0000;" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://via.placeholder.com/415x220/0a0000/cc0000?text=ByteBlitzX+[REPLACE+LINK]" width="415" alt="ByteBlitzX" style="border-radius: 15px; border: 1px solid #8B0000;" />
-</p>
+<br><br>
+
+<!-- AFFILIATED TEAMS / PROJECTS -->
+<table align="center" border="0" cellspacing="15" cellpadding="0">
+  <tr>
+    <td align="center">
+      <img src="https://via.placeholder.com/415x220/0a0000/cc0000?text=Team+Cyb3rDrag0nz+[REPLACE+LINK]" width="415" alt="Team Cyb3rDrag0nz" style="border-radius: 15px; border: 1px solid #8B0000;" />
+    </td>
+    <td align="center">
+      <img src="https://via.placeholder.com/415x220/0a0000/cc0000?text=ByteBlitzX+[REPLACE+LINK]" width="415" alt="ByteBlitzX" style="border-radius: 15px; border: 1px solid #8B0000;" />
+    </td>
+  </tr>
+</table>
 
 <br><br>
 
 <!-- TECH STACK SECTION -->
-<h2 align="center" style="color: #E60000;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Dagger.png" alt="Dagger" width="25" height="25" /> ARSENAL & TECH STACK</h2>
+<h2 align="center" style="color: #E60000;">
+  <img src="https://unpkg.com/lucide-static@latest/icons/swords.svg" alt="Arsenal" width="25" height="25" style="vertical-align: middle;" />
+  ARSENAL &amp; TECH STACK
+</h2>
 
 <p align="center">
   <!-- Languages -->
@@ -68,14 +75,23 @@
 <br>
 
 <!-- ABOUT SECTIONS -->
-<div align="left" style="font-family: sans-serif;">
+<div align="left" style="font-family: Inter, sans-serif;">
   
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Red%20Circle.png" alt="Red Circle" width="20" height="20" /> ABOUT THE ARCHITECTURE
-I engineer powerful, asynchronous intelligence-gathering engines and deep-search platforms designed to process immense volumes of data with zero latency. As the co-founder of the **BCIA Agency**, my core focus lies at the intersection of Open Source Intelligence (OSINT) and raw backend infrastructure, crafting digital ecosystems where targets—from usernames to IP architectures—are meticulously mapped, extracted, and tracked in real-time. Code isn't just written; it is weaponized for absolute precision.
+  <h3>
+    <img src="https://unpkg.com/lucide-static@latest/icons/target.svg" alt="Target" width="20" height="20" style="vertical-align: middle;" />
+    ABOUT THE ARCHITECTURE
+  </h3>
+  <p>
+    I engineer powerful, asynchronous intelligence-gathering engines and deep-search platforms designed to process immense volumes of data with zero latency. As the co-founder of the <strong>BCIA Agency</strong>, my core focus lies at the intersection of Open Source Intelligence (OSINT) and raw backend infrastructure, crafting digital ecosystems where targets—from usernames to IP architectures—are meticulously mapped, extracted, and tracked in real-time. Code isn't just written; it is weaponized for absolute precision.
+  </p>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Double%20Exclamation%20Mark.png" alt="Exclamation" width="20" height="20" /> THE ETHOS OF MASTERBOY
-In the shadows of conventional development, true mastery requires dismantling the system to understand its core. I thrive in building "hard core" cybernetic environments where minimalism meets overwhelming processing power. Whether structuring complex regional intelligence interfaces or diving deep into algorithmic execution via C++ and Python, my objective remains constant: push the boundaries of digital reconnaissance and execute every protocol flawlessly without leaving a trace. 
-
+  <h3>
+    <img src="https://unpkg.com/lucide-static@latest/icons/flame.svg" alt="Flame" width="20" height="20" style="vertical-align: middle;" />
+    THE ETHOS OF MASTERBOY
+  </h3>
+  <p>
+    In the shadows of conventional development, true mastery requires dismantling the system to understand its core. I thrive in building "hard core" cybernetic environments where minimalism meets overwhelming processing power. Whether structuring complex regional intelligence interfaces or diving deep into algorithmic execution via C++ and Python, my objective remains constant: push the boundaries of digital reconnaissance and execute every protocol flawlessly without leaving a trace.
+  </p>
 </div>
 
 <br>
@@ -85,7 +101,7 @@ In the shadows of conventional development, true mastery requires dismantling th
 <br>
 
 <!-- FOOTER / SOCIALS -->
-<h3 align="center">ESTABLISH SECURE CONNECTION</h3>
+<h3 align="center" style="color: #E60000;">ESTABLISH SECURE CONNECTION</h3>
 
 <p align="center">
   <a href="https://instagram.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=000000&labelColor=8B0000" alt="Instagram"></a>
@@ -96,7 +112,7 @@ In the shadows of conventional development, true mastery requires dismantling th
 
 <br>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Binera+Bold&weight=500&size=16&duration=5000&pause=1000&color=E60000&center=true&vCenter=true&width=500&height=30&lines=SYSTEM+READY;AWAITING+INPUT..." alt="Terminal Footer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=5000&pause=1000&color=E60000&center=true&vCenter=true&width=500&height=30&lines=SYSTEM+READY;AWAITING+INPUT..." alt="Terminal Footer" />
 </p>
 
 </div>
