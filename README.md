@@ -42,7 +42,7 @@
 
 ![](https://img.shields.io/badge/HANDLE-Exp1o5iveM1nd-050505?style=flat-square&labelColor=8b0000)
 ![](https://img.shields.io/badge/DESIGNATION-OSINT-050505?style=flat-square&labelColor=8b0000)
-![](https://img.shields.io/badge/DISCIPLINE-Security_%2B_Software_Engineering-050505?style=flat-square&labelColor=8b0000)
+![](https://img.shields.io/badge/DISCIPLINE-OSINT_%2BHacker_-050505?style=flat-square&labelColor=8b0000)
 ![](https://img.shields.io/badge/ENVIRONMENT-Linux_%C2%B7_Bash%2FZsh_%C2%B7_Git-050505?style=flat-square&labelColor=8b0000)
 ![](https://img.shields.io/badge/MODE-BUILDING-050505?style=flat-square&labelColor=ff1f3d)
 ![](https://img.shields.io/badge/AVAILABILITY-OPEN_TO_COLLAB-050505?style=flat-square&labelColor=ff1f3d)
