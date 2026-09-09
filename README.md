@@ -133,15 +133,8 @@ I stand with what is right — and nothing else.
 <br/>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:050505,100:8b0000&height=90&section=header&text=SECURITY+%2B+RESEARCH&fontColor=ff1f3d&fontSize=28&animation=fadeIn&fontAlignY=65" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:050505,100:8b0000&height=90&section=header&text=BLACK INTEL&fontColor=ff1f3d&fontSize=28&animation=fadeIn&fontAlignY=65" />
 </div>
-
-<table width="100%">
-<tr><td width="25%" align="center"><b>WEB SECURITY</b></td><td>application-layer research, auth flows, common vulnerability classes</td></tr>
-<tr><td align="center"><b>SYSTEMS</b></td><td>Linux internals, hardening, network fundamentals</td></tr>
-<tr><td align="center"><b>OSINT</b></td><td>open-source / digital research methods</td></tr>
-<tr><td align="center"><b>AUTOMATION</b></td><td>tooling that reduces manual research work</td></tr>
-</table>
 
 > **Ethics statement** — Security research is performed only on systems I own or where
 > I have explicit, documented authorization. Nothing on this profile references
