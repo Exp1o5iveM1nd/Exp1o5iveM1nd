@@ -64,17 +64,17 @@
 <td align="center" width="33%">
 <img src="YOUR_BCIA_LOGO_URL" width="92" /><br/><br/>
 <b>BCIA AGENCY</b><br/>
-<sub style="color:#777777">co-founder</sub>
+<sub style="color:#777777">CO-Founder</sub>
 </td>
 <td align="center" width="33%">
 <img src="YOUR_CYB3RDRAG0NZ_LOGO_URL" width="92" /><br/><br/>
-<b>CYB3RDRAG0NZ</b><br/>
-<sub style="color:#777777">team</sub>
+<b>Cyb3rDrag0nz</b><br/>
+<sub style="color:#777777">Team</sub>
 </td>
 <td align="center" width="33%">
 <img src="YOUR_BYTEBLITZX_LOGO_URL" width="92" /><br/><br/>
-<b>BYTEBLITZX TEAMS</b><br/>
-<sub style="color:#777777">team</sub>
+<b>ByteBlitzX</b><br/>
+<sub style="color:#777777">Team</sub>
 </td>
 </tr>
 </table>
