@@ -82,7 +82,8 @@
     ABOUT THE ARCHITECTURE
   </h3>
   <p>
-    I engineer powerful, asynchronous intelligence-gathering engines and deep-search platforms designed to process immense volumes of data with zero latency. As the co-founder of the <strong>BCIA Agency</strong>, my core focus lies at the intersection of Open Source Intelligence (OSINT) and raw backend infrastructure, crafting digital ecosystems where targets—from usernames to IP architectures—are meticulously mapped, extracted, and tracked in real-time. Code isn't just written; it is weaponized for absolute precision.
+    I serve truth.
+I stand with Muslims.
   </p>
 
   <h3>
@@ -90,7 +91,8 @@
     THE ETHOS OF MASTERBOY
   </h3>
   <p>
-    In the shadows of conventional development, true mastery requires dismantling the system to understand its core. I thrive in building "hard core" cybernetic environments where minimalism meets overwhelming processing power. Whether structuring complex regional intelligence interfaces or diving deep into algorithmic execution via C++ and Python, my objective remains constant: push the boundaries of digital reconnaissance and execute every protocol flawlessly without leaving a trace.
+    No noise. No compromise.
+Build with purpose. Execute with precision.
   </p>
 </div>
 
