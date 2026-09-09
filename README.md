@@ -8,17 +8,12 @@
 
 <br/>
 
-
-
-
-
-
 <br/>
 
-<a href="YOUR_GITHUB_URL"><img src="https://img.shields.io/badge/GITHUB-050505?style=flat-square&logo=github&logoColor=ff1f3d" /></a> 
-<a href="YOUR_X_URL"><img src="https://img.shields.io/badge/X-050505?style=flat-square&logo=x&logoColor=ff1f3d" /></a> 
-<a href="YOUR_TELEGRAM_URL"><img src="https://img.shields.io/badge/TELEGRAM-050505?style=flat-square&logo=telegram&logoColor=ff1f3d" /></a> 
-<a href="YOUR_INSTAGRAM_URL"><img src="https://img.shields.io/badge/INSTAGRAM-050505?style=flat-square&logo=instagram&logoColor=ff1f3d" /></a> 
+<a href="YOUR_GITHUB_URL"><img src="https://img.shields.io/badge/GITHUB-050505?style=flat-square&logo=github&logoColor=ff1f3d" /></a> 
+<a href="YOUR_X_URL"><img src="https://img.shields.io/badge/X-050505?style=flat-square&logo=x&logoColor=ff1f3d" /></a> 
+<a href="YOUR_TELEGRAM_URL"><img src="https://img.shields.io/badge/TELEGRAM-050505?style=flat-square&logo=telegram&logoColor=ff1f3d" /></a> 
+<a href="YOUR_INSTAGRAM_URL"><img src="https://img.shields.io/badge/INSTAGRAM-050505?style=flat-square&logo=instagram&logoColor=ff1f3d" /></a> 
 <a href="YOUR_WEBSITE_URL"><img src="https://img.shields.io/badge/WEBSITE-050505?style=flat-square&logo=firefox&logoColor=ff1f3d" /></a>
 
 </div>
@@ -39,13 +34,6 @@
 <tr>
 <td width="150" align="center"><img src="YOUR_AVATAR_URL" width="130" /></td>
 <td>
-
-
-
-
-
-
-
 
 </td>
 </tr>
@@ -105,28 +93,9 @@ I stand with what is right — and nothing else.
 
 <sub>LANGUAGES</sub><br/>
 
-
-
-
-
-
-
-
-
 <br/><sub>FRAMEWORKS</sub><br/>
 
-
-
-
-
 <br/><sub>SYSTEMS · DATA</sub><br/>
-
-
-
-
-
-
-
 
 </div>
 
@@ -208,10 +177,6 @@ repo
 </div>
 
 <div align="center">
-
-
-
-
 
 </div>
 
