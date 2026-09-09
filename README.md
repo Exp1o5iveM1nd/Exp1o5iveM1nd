@@ -63,7 +63,7 @@
 <tr>
 <td align="center" width="33%">
 <img src="YOUR_BCIA_LOGO_URL" width="92" /><br/><br/>
-<b>BCIA AGENCY</b><br/>
+<b>BCIA</b><br/>
 <sub style="color:#777777">CO-Founder</sub>
 </td>
 <td align="center" width="33%">
