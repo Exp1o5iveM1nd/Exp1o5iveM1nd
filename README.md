@@ -14,7 +14,7 @@
 <!-- SHOWCASE IMAGES (RESPONSIVE) -->
 <!-- Main Image: BCIA AGENCY -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x400/0a0000/ff0000?text=BCIA+AGENCY+[REPLACE+IMAGE+LINK+HERE]" width="100%" alt="BCIA Agency" style="border-radius: 15px; border: 2px solid #E60000; box-shadow: 0px 0px 15px rgba(230, 0, 0, 0.4);" />
+  <img src="https://i.ibb.co/7xTMtpTk/bcia-crest-DB2-Cxj-Jh.webp" width="100%" alt="BCIA Agency" style="border-radius: 15px; border: 2px solid #E60000; box-shadow: 0px 0px 15px rgba(230, 0, 0, 0.4);" />
 </p>
 
 <!-- Sub Images: Cyb3rDrag0nz & ByteBlitzX -->
