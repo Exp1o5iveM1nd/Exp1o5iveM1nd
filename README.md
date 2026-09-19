@@ -23,7 +23,7 @@
       <img src="https://i.ibb.co/LX5wwxP6/IMG-20260919-034459.png" width="100">
     </td>
     <td align="center" width="50%">
-      <img src="YOUR_LOGO_3_URL" width="100">
+      <img src="https://i.ibb.co/038zvW9/Picsart-26-07-01-09-36-16-750.png" width="100">
     </td>
   </tr>
 </table>
