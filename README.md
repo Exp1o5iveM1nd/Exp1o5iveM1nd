@@ -15,7 +15,7 @@
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" colspan="2">
-      <img src="YOUR_HQ_LOGO_URL" width="150">
+      <img src="https://i.ibb.co/xK6nJysZ/bcia-crest-DB2-Cxj-Jh.webp" width="150">
     </td>
   </tr>
   <tr>
